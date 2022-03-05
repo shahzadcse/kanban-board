@@ -1,0 +1,16 @@
+.task-column {
+  width: min(25%, 300px, 80vw);
+  background-color: white;
+  border: 1px solid #f2f2f2;
+  height: fit-content;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.task-column h1 {
+  background-color: #61dbfb;
+  color: black;
+  font-size: 1rem;
+  width: 90%;
+  padding: 5%;
+}
