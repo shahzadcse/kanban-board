@@ -95,3 +95,9 @@ button,
   cursor: pointer;
   font-size: 0.8rem;
 }
+
+.task-modal-inner button,
+.task-modal-inner .button {
+  display: inline-block;
+  margin: 10px 15px;
+}
